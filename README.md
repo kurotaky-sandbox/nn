@@ -1,0 +1,4 @@
+## ニューラルネットワークサンプル
+* numpy
+* matplotlib
+* seaborn
