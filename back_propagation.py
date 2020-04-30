@@ -18,6 +18,9 @@ epoch = 2001
 interval = 200  # 経過の表示間隔
 
 #-中間層-
+#
+# middle_layer = MiddleLayer(n_in, n_mid)
+#
 class MiddleLayer:
     def __init__(self, n_upper, n):  # 初期設定
         # 重みとバイアス(ベクトル)
